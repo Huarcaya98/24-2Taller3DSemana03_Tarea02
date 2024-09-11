@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _24_2Taller3DSemana03Tarea02
 {
-    internal class Arma
+    public class Arma
     {
         private string nombre;
         private double danio;
