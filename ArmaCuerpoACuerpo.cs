@@ -8,7 +8,7 @@ namespace _24_2Taller3DSemana03Tarea02
 {
     public class ArmaCuerpoACuerdo : Arma
     {
-        public ArmaCuerpoACuerdo(string nombre, double daño, double velocidadAtaque, double precio)
-            : base(nombre, daño, velocidadAtaque, precio) { }
+        public ArmaCuerpoACuerdo(string nombre, double danio, double velocidadAtaque, double precio)
+            : base(nombre, danio, velocidadAtaque, precio) { }
     }
 }
