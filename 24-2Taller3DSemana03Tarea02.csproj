@@ -43,8 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Arma.cs" />
+    <Compile Include="ArmaADistancia.cs" />
+    <Compile Include="ArmaCuerpoACuerpo.cs" />
+    <Compile Include="Inventario.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Proyectil.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
